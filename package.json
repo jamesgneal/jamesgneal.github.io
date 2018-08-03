@@ -2,7 +2,7 @@
   "name": "portfoilo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamesgneal.github.io/",
+  "homepage": "https://jamesgneal.github.io/portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
     "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
